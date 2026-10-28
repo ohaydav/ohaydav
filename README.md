@@ -1,26 +1,23 @@
-# Hi, I’m David 👋
+# David Ohayon
 
-### About Me
-- Strategy & Ops leader at TikTok (9+ years in tech, EMEA scale)  
-- Pivoting into product, data science, and AI  
-- Builder–operator mindset: systems, monetisation, and AI-native products  
+**Product Analytics & Data Science · Consumer Tech**
 
-### Current Focus
-- Learning Python, ML, and AI  
-- Building portfolio projects (data, AI, product demos)  
-- Writing about data, performance, and monetisation  
+My background spans six years at TikTok and earlier experience at Dailymotion, working across consumer engagement, content discovery, growth and monetisation.
 
-### Skills
-- Python (pandas, scikit-learn, matplotlib)  
-- SQL & data analysis  
-- Product strategy & monetisation systems  
-- Ops at scale (50+ markets, $100M+ programs)  
+I'm now focusing more deeply on hands-on Product Analytics and Data Science, with particular interests in experimentation, causal inference, user behaviour and machine learning.
+
+### Currently exploring
+
+**Statistics & experimentation:** hypothesis testing, experimental design, causal inference and product measurement.
+
+**Programming & analysis:** SQL, Python, pandas, scikit-learn and data visualisation.
+
+**Product questions:** engagement, retention, recommendation quality and understanding what genuinely improves user experiences.
 
 ### Projects
-- 🧠 [OASIS Dementia Classifier](#)  
-- 🎾 [ATP Tennis Predictions](#)  
-- 💡 More coming soon...  
+
+Independent product analytics and machine learning projects will be documented here as they become reproducible and ready to share.
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-- [Medium](https://medium.com/@YOUR-HANDLE)  
+
+[LinkedIn](https://www.linkedin.com/in/ohaydav/)
